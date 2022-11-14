@@ -1,0 +1,7 @@
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    display: inline-block;
+    justify-content: center;
+}
